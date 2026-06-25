@@ -1,0 +1,6 @@
+{
+  "name": "MineMod Studio",
+  "description": "Créez vos propres items et mods Minecraft Bedrock natifs (.mcaddon) avec textures personnalisées et attributs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
